@@ -1,1 +1,5 @@
+def greet():
+    print("Hello from my first branch!")
 
+if __name__ == "__main__":
+    greet()
